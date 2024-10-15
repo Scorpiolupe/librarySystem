@@ -1,0 +1,8 @@
+C:\Users\asus\source\repos\librarySystem\librarySystem\bin\Debug\librarySystem.exe.config
+C:\Users\asus\source\repos\librarySystem\librarySystem\bin\Debug\librarySystem.exe
+C:\Users\asus\source\repos\librarySystem\librarySystem\bin\Debug\librarySystem.pdb
+C:\Users\asus\source\repos\librarySystem\librarySystem\obj\Debug\librarySystem.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\librarySystem\librarySystem\obj\Debug\librarySystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\asus\source\repos\librarySystem\librarySystem\obj\Debug\librarySystem.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\librarySystem\librarySystem\obj\Debug\librarySystem.exe
+C:\Users\asus\source\repos\librarySystem\librarySystem\obj\Debug\librarySystem.pdb
